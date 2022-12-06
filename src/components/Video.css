@@ -1,0 +1,18 @@
+.cust_likes_details {
+	position: relative;
+}
+
+.cust_likes_details ul {
+	position: absolute;
+	background-color: rgb(236, 233, 233);
+	border: 1px solid rgb(185, 183, 183);
+	font-size: 0.8rem;
+}
+
+.cust_likes_details ul li {
+	padding: 3px 8px;
+}
+
+.cust_likes_details ul li:hover {
+	background-color: yellow;
+}
